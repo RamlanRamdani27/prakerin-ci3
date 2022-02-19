@@ -99,7 +99,7 @@
     </div>
     </div>
 </div>
-           <script async defer src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&language=id&key=AIzaSyB8DAX3Thn7-UzkMPUPDzbc_EDzddIdTrY&callback=initMap"></script> 
+           <script async defer src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&language=id&key=AIzaSyB8DAX3Th&callback=initMap"></script> 
 <!--    <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB8DAX3Thn7-UzkMPUPDzbc_EDzddIdTrY&callback=initMap">
     </script> -->

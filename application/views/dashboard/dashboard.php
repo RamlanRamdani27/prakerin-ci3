@@ -152,7 +152,7 @@
     if (!empty($mhs_prakerin)) {
         # code...
 ?>
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&language=id&key=AIzaSyB8DAX3Thn7-UzkMPUPDzbc_EDzddIdTrY"></script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&language=id&key="></script>
 <script>
                     
     var marker;
