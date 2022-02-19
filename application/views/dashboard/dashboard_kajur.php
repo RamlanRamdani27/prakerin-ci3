@@ -1,6 +1,6 @@
 <div class="container-fluid">
 	<div class="block-header">
-		<h2>DASHBOARD KAETUA JURUSAN</h2>
+		<h2>DASHBOARD KETUA JURUSAN</h2>
 	</div>
 
 	<!-- Widgets -->
