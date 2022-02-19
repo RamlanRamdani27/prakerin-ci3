@@ -149,7 +149,7 @@
 		$alamat = 'Jl. Babakan Sirna 27 Benteng Kota Sukabumi 43132';
 		$mahasiswa = "";
 	?>
-		<script async defer src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&language=id&key=AIzaSyB8DAX3Thn7-UzkMPUPDzbc_EDzddIdTrY&callback=initMap"></script>
+		<script async defer src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&language=id&key=&callback=initMap"></script>
 		<script>
 			function initMap() {
 				var uluru = {
